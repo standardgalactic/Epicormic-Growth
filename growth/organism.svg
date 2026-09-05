@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
-<title id="title">Epicormic growth after 2069 shoots</title>
+<title id="title">Epicormic growth after 2070 shoots</title>
 <desc id="desc">A deterministic branching organism reconstructed from the append-only growth ledger.</desc>
 <rect width="1000" height="1000" fill="#f3efe3"/>
 <g fill="none" stroke-linecap="round">
@@ -2073,6 +2073,7 @@
 <path d="M551.618 907.317 L555.906 904.545" stroke="hsl(117 41% 60%)" stroke-width="5.565" data-shoot="2067"/>
 <path d="M473.042 826.308 L467.573 821.222" stroke="hsl(128 69% 43%)" stroke-width="4.634" data-shoot="2068"/>
 <path d="M462.674 970.478 L464.072 987.682" stroke="hsl(122 50% 46%)" stroke-width="4.868" data-shoot="2069"/>
+<path d="M496.374 896.282 L488.929 884.757" stroke="hsl(107 46% 40%)" stroke-width="6.997" data-shoot="2070"/>
 </g>
-<text x="24" y="40" font-family="monospace" font-size="18" fill="#382a1e">shoots: 02069</text>
+<text x="24" y="40" font-family="monospace" font-size="18" fill="#382a1e">shoots: 02070</text>
 </svg>
