@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+<title id="title">Epicormic growth after 0 shoots</title>
+<desc id="desc">A deterministic branching organism reconstructed from the append-only growth ledger.</desc>
+<rect width="1000" height="1000" fill="#f3efe3"/>
+<g fill="none" stroke-linecap="round">
+<path d="M500 970 L500 940" stroke="#593a22" stroke-width="12"/>
+</g>
+<text x="24" y="40" font-family="monospace" font-size="18" fill="#382a1e">shoots: 00000</text>
+</svg>
